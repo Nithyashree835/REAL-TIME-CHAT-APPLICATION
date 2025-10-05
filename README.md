@@ -38,3 +38,7 @@ It allows multiple users to chat instantly, view message history, and see when o
 🧠 JavaScript (ES6)
 
 🔌 WebSockets (Node.js + ws)
+
+*OUTPUT*:
+
+<img width="1653" height="826" alt="Image" src="https://github.com/user-attachments/assets/cc678faa-7c11-4b8f-9c14-f2f39aeac525" />
